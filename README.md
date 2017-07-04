@@ -1,2 +1,2 @@
 # SortableSubmit
-My solution to the Sortable challene.
+My solution to the Sortable challenge. Contains a java file. the two files, and directory with the external libs.
